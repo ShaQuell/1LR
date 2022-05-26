@@ -1,0 +1,7 @@
+C:\Users\38073\source\repos\1LR\1LR\bin\Debug\1LR.exe.config
+C:\Users\38073\source\repos\1LR\1LR\bin\Debug\1LR.exe
+C:\Users\38073\source\repos\1LR\1LR\bin\Debug\1LR.pdb
+C:\Users\38073\source\repos\1LR\1LR\obj\Debug\1LR.csprojAssemblyReference.cache
+C:\Users\38073\source\repos\1LR\1LR\obj\Debug\1LR.csproj.CoreCompileInputs.cache
+C:\Users\38073\source\repos\1LR\1LR\obj\Debug\1LR.exe
+C:\Users\38073\source\repos\1LR\1LR\obj\Debug\1LR.pdb
