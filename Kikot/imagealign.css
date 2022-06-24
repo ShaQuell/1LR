@@ -1,0 +1,19 @@
+.image-wrap {
+	width: 1440px;
+	height: 709px;
+}
+
+.text-wrap {
+	width: 1440px;
+	height: 268px;
+}
+
+.image-flex {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.normal   { 
+	letter-spacing: 3px; 
+}
